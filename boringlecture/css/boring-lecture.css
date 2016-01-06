@@ -1,0 +1,19 @@
+h2.intro {
+   font-size: 60px;
+   text-align: center;
+}
+
+p.intro {
+   text-align: center;
+   color: green;
+   font-size: 25px;
+}
+
+img.intro {
+  align-items: center;
+}
+
+p {
+  text-align: center;
+  font-size: 40px;
+}

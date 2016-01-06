@@ -1,0 +1,14 @@
+p.intro {
+  font-size: 30px;
+  font-style: italic;
+}
+
+.important {
+  color:green;
+  font-weight:bold;
+}
+
+.description {
+  width: 50%;
+  color:blue;
+}
