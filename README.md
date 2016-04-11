@@ -1,6 +1,6 @@
 # _Boring Assignment_
 
-#### A site about tire maintenence   | January 6, 2016
+#### A site about tire maintenance   | January 6, 2016
 
 #### By: Yvonna Contreras 
 
